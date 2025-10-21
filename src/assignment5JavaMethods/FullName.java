@@ -1,20 +1,6 @@
 package assignment5JavaMethods; // Step 1: Package Name
 /*
-Assignment_5_Java_Methods:
-
-Step 5: Inside the same package, Create another class "FullName".
-
-Step 6: Implement a return type parameterized method which is String type, 
-		which name could be same as class name. Please follow naming convention for methods. 
-		Use fName and lName as a parameter which are String in nature. 
-		In the method body create a syso to print: "Family Member: " + <fName> + " "+ <lName>
-
-Step 7: Create a main method after the method, 
-		Instantiate the class and call the method by the object. 
-		Can you call a parameterized method more than one with different arguments? 
-		If yes, then print all Family members name.
-
-Step 8: Organize your code. Push in the GitHub. Paste the link of package 'assignment5JavaMethods' below.
+Assignment Name: Assignment Java Methods
 */
 
 public class FullName { // Step 5:Another class "FullName".
