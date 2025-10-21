@@ -1,7 +1,8 @@
-package assignment5JavaMethods; // Step 1: Package Name
 /*
 Assignment Name: Assignment Java Methods
 */
+
+package assignment5JavaMethods; // Step 1: Package Name
 
 public class FullName { // Step 5:Another class "FullName".
 
