@@ -9,9 +9,10 @@ public class StudentTest {
 	public static void main(String[] args) {
 
 		// Step 6: First outcome
-		Student student1 = new Student();
+		new Student();
+
 		// Step 7: The second outcome
-		Student student3 = new Student("Tony", 'M', 123, 3.5f, true);
+		new Student("Tony", 'M', 123, 3.5f, true);
 
 	}
 }

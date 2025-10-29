@@ -1,5 +1,5 @@
 /*
-This Assignment is related to: Assignment Java Constructor
+This Assignment is related to: Assignment Java Constructor:
 */
 package hw4Constructor; // Step 1: Package name --> "hw4Constructor"
 
@@ -19,6 +19,7 @@ public class Student {
 	// Step 4: Declaring parameterized constructor
 	public Student(String name, char gender, int id, float grade, boolean isProgrammer) {
 		this.name = name;
+		this.gender = gender;
 		this.id = id;
 		this.grade = grade;
 		this.isProgrammer = isProgrammer;
